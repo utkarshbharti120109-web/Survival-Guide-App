@@ -1,0 +1,6 @@
+{
+  "name": "Survival Guide",
+  "description": "Comprehensive offline survival, first aid instructions, emergency kit tracking, and utility tools helper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
